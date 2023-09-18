@@ -3,7 +3,7 @@ A Python program that synchronizes two folders: source and replica. It performs 
 
 ## Run:
 1. Create two folders: one for the source and one for the replica.
-2. Open PowerShell and run the following command: python task.py source_folder replica_folder -i 10 -l sync.log
+2. Open PowerShell and run the following command: `python task.py source_folder replica_folder -i 10 -l sync.log`
 
 - The `source_folder` should be replaced with the path to your source folder.
 - The `replica_folder` should be replaced with the path to your replica folder.
